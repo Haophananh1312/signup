@@ -1,0 +1,1 @@
+alert("Chưa đăng nhập và đăng ký được!")
